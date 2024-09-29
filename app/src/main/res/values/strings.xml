@@ -2,4 +2,5 @@
     <string name="app_name">My Application</string>
     <string name="Hello_message">Hello world!</string>
     <string name="button_message">i\'m a button</string>
+    <string name="editmassage">I/m an edittext</string>
 </resources>
